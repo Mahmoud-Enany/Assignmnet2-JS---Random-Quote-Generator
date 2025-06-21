@@ -1,0 +1,30 @@
+@font-face {
+    font-family: hamo;
+    src: url(./../Fonts/Caprasimo/Caprasimo-Regular.ttf);
+}
+
+.myh {
+    font-family: hamo;
+}
+
+@font-face {
+    font-family: hema;
+    src: url(./../Fonts/Caprasimo\,Playfair_Display/.ttf);
+}
+
+.myp {
+    font-family: hema;
+}
+
+.mybtn {
+    background-color: #0000FF;
+    color: white;
+    padding: 30px 90px;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+.mybtn:hover {
+    background-color: #529134;
+}
